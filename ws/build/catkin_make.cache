@@ -1,0 +1,2 @@
+mbot_description
+-DCATKIN_DEVEL_PREFIX=/home/congjie/Desktop/ws/devel -DCMAKE_INSTALL_PREFIX=/home/congjie/Desktop/ws/install -G Unix Makefiles
